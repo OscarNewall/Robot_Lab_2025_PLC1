@@ -60,17 +60,100 @@
         <mxCell id="6skoXQcmFbFtSuIvuf8G-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Prep gearbox&#39;" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-16" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-17" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-19" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Tool handling&#39;" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="440" as="geometry" />
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CC1 error state" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="900" as="geometry" />
         </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-28" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-29" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Initial logger fixture check" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="520" as="geometry" />
+          <mxGeometry height="60" width="120" x="120" y="560" as="geometry" />
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Rotate logger&#39;" vertex="1">
           <mxGeometry height="60" width="120" x="-40" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Retracting both gearbox fixture pistons" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-31" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Pick and place logger base&#39;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-32" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Extending logger fixture piston" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-33" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-35" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Do nothing for 1500 cycles to let fixture sensors update" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-36" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-37" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Pick and place logger cover&#39;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-38" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-39" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run LR Mate &#39;Screwing&#39;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-40" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Retracting logger fixture piston" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-41" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-42" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="1650" />
+              <mxPoint x="340" y="1650" />
+            </Array>
+            <mxPoint x="230" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Pick and place whole logger&#39;" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Processing done" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
