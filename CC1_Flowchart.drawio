@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="GXAVbarMq7QvYPEdrup1">
-    <mxGraphModel dx="1593" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2080" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,8 +172,14 @@
         <mxCell id="6skoXQcmFbFtSuIvuf8G-62" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=light-dark(#000000, #cbb9dd);strokeWidth=4;fontSize=13;" target="6skoXQcmFbFtSuIvuf8G-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-113" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;fontColor=default;strokeColor=light-dark(#000000, #cbb9dd);strokeWidth=4;align=center;verticalAlign=middle;labelBackgroundColor=default;endArrow=classic;fillColor=#76608a;" target="6skoXQcmFbFtSuIvuf8G-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#690072;strokeColor=none;strokeWidth=4;fontColor=#ffffff;fontSize=13;align=center;verticalAlign=middle;fontFamily=Helvetica;" value="Run M6 &#39;Pick and place whole gearbox&#39;" vertex="1">
           <mxGeometry height="60" width="120" x="440" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-114" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;fontColor=default;strokeColor=light-dark(#000000, #cbb9dd);strokeWidth=4;align=center;verticalAlign=middle;labelBackgroundColor=default;endArrow=classic;fillColor=#76608a;" target="6skoXQcmFbFtSuIvuf8G-46" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#690072;strokeColor=none;strokeWidth=4;fontColor=#ffffff;fontSize=13;align=center;verticalAlign=middle;fontFamily=Helvetica;" value="Extending both gearbox fixture pistons" vertex="1">
           <mxGeometry height="60" width="120" x="440" y="840" as="geometry" />
@@ -296,6 +302,33 @@
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;O:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;D2_Processing_Done = TRUE&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="80" x="379" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;I: Both pistons retracted, Gears_Removed = TRUE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="156.5" x="607" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;I: Both pistons retracted, Gears_Removed = FALSE, Upper part not present, Lower part not present&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="156.5" x="510" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;I: Upper part present, Lower part present&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="156.5" x="500" y="773" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;I: Both pistons extended&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="500" y="907" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;I: Upper part present, Lower part present&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="156.5" x="500" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;I: Upper piston retracted, Lower piston extended&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="163.5" x="503.5" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;I: Upper piston retracted, Lower piston extended,&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Lower part present, Upper part not present&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="163.5" x="503" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-121" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;O:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Gears_Removed = TRUE&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="485.25" y="1438" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;I: Lower part not present, Upper part not present, Both pistons retracted&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="500" y="1650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
