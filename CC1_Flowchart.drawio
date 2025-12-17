@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="GXAVbarMq7QvYPEdrup1">
-    <mxGraphModel dx="1572" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1611" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
           <mxGeometry height="60" width="120" x="280" y="440" as="geometry" />
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CC1 error state" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="900" as="geometry" />
+          <mxGeometry height="60" width="120" x="280" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-28" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-20" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -84,8 +84,25 @@
         <mxCell id="6skoXQcmFbFtSuIvuf8G-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Initial logger fixture check" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="560" as="geometry" />
         </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-43" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Rotate logger&#39;" vertex="1">
           <mxGeometry height="60" width="120" x="-40" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-63" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-64" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-65" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="575" />
+              <mxPoint x="720" y="1570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Retracting both gearbox fixture pistons" vertex="1">
           <mxGeometry height="60" width="120" x="440" y="560" as="geometry" />
@@ -105,18 +122,16 @@
         <mxCell id="6skoXQcmFbFtSuIvuf8G-33" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6skoXQcmFbFtSuIvuf8G-35" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-6">
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-53" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Do nothing for 1500 cycles to let fixture sensors update" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="980" as="geometry" />
         </mxCell>
-        <mxCell id="6skoXQcmFbFtSuIvuf8G-36" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="960" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-37" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-54" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Pick and place logger cover&#39;" vertex="1">
@@ -154,6 +169,62 @@
         </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Processing done" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-62" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Pick and place whole gearbox&#39;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Extending both gearbox fixture pistons" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-57" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-58" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run LR Mate &#39;Unscrewing&#39;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-59" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Retracting upper gearbox fixture piston only" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-55" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-60" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6skoXQcmFbFtSuIvuf8G-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Remove gearbox cover&#39;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-66" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="1490" />
+              <mxPoint x="680" y="1490" />
+              <mxPoint x="680" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Remove gears&#39;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-51" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-52" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="6skoXQcmFbFtSuIvuf8G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6skoXQcmFbFtSuIvuf8G-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run M6 &#39;Remove gearbox base&#39;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="1540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
