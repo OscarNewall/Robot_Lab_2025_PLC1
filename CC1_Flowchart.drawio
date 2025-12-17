@@ -32,14 +32,6 @@
         <mxCell id="6skoXQcmFbFtSuIvuf8G-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Product available" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="6skoXQcmFbFtSuIvuf8G-14" edge="1" parent="1" source="6skoXQcmFbFtSuIvuf8G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="6skoXQcmFbFtSuIvuf8G-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="540" y="410" />
-              <mxPoint x="370" y="410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6skoXQcmFbFtSuIvuf8G-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CC1 error state" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="300" as="geometry" />
         </mxCell>
